@@ -5,7 +5,7 @@ import streamlit as st
 
 # 페이지 설정
 st.set_page_config(
-    page_title="사용자 입력 실습",
+    page_title="사용자 입력 실습!!",
     page_icon="📝",
     layout="centered"
 )
