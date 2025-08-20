@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.markdown(안녕하새요)
+st.title("뭘 만들징")
